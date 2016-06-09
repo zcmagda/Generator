@@ -3,3 +3,5 @@ Projekt PERL
 ----------------------
 Program generuje hasła przy pomocy 3 różnych modułów. 
 Należy je pobrać przed uruchomieniem programu.
+----------------------
+pro tip: sudo cpanm nazwamodułu
